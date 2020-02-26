@@ -1,0 +1,18 @@
+{
+  "name": "hw7module",
+  "version": "1.0.0",
+  "description": "use for getting a pdf transfer from node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.4",
+    "pdfkit": "^0.11.0"
+  },
+  "devDependencies": {}
+}
